@@ -11,6 +11,7 @@ Source0:	https://files.pythonhosted.org/packages/source/r/reactivex/reactivex-%{
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python)
 BuildRequires:	python3dist(pip)
+BuildRequires:  python3dist(poetry)
 BuildRequires:	python3dist(wheel)
 
 %description
