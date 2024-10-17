@@ -6,7 +6,7 @@ Version:	4.0.4
 Release:	1
 License:	MIT
 Group:		Development/Python
-Url:		http://reactivex.io/
+Url:		https://reactivex.io/
 Source0:	https://files.pythonhosted.org/packages/source/r/reactivex/reactivex-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python)
